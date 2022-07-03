@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dae3a62.css",
+    "main.js": "/static/js/main.dcf87acd.js",
+    "static/media/Cocos-2.jpg": "/static/media/Cocos-2.314c7d3d07f2e8206ffd.jpg",
+    "static/media/Cocos-1.jpg": "/static/media/Cocos-1.86a6cb0c5d589d38c3af.jpg",
+    "static/media/Cocos-0.jpg": "/static/media/Cocos-0.9d7e61abea154541166c.jpg",
+    "static/media/Cocos-3.jpeg": "/static/media/Cocos-3.0feb02dbae35b38c2c9d.jpeg",
+    "index.html": "/index.html",
+    "main.4dae3a62.css.map": "/static/css/main.4dae3a62.css.map",
+    "main.dcf87acd.js.map": "/static/js/main.dcf87acd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dae3a62.css",
+    "static/js/main.dcf87acd.js"
+  ]
+}
